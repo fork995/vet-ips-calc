@@ -1,2 +1,2 @@
 # vet-ips-calc
-CRI calc
+CRI&RER calc
